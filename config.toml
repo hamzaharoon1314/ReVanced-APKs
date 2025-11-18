@@ -1,10 +1,5 @@
-enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
+enable-magisk-update = true 
 parallel-jobs = 1
-
-# add 'enabled = false' for not patching a specific app or remove it from the config
-# see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
-
-# you can use rvmm-config-gen to generate a config
 
 [YouTube]
 build-mode = "both"
@@ -35,7 +30,6 @@ enabled = false
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 
-# https://github.com/j-hc/revanced-magisk-module/issues/554
 [Music-Extended]
 enabled = false
 app-name = "Music"
@@ -59,18 +53,15 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [Twitter]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 build-mode = "apk"
 dpi = "120-640dpi"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
 [TikTok]
 enabled = false
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
 
 [Messenger]
@@ -83,7 +74,6 @@ enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 
 ######################################################################################################################################################################
-
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
