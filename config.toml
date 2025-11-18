@@ -81,3 +81,173 @@ arch = "arm64-v8a"
 [IconPackStudio]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+
+######################################################################################################################################################################
+
+
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+included-patches = "'Hide ads' 'Sanitize sharing links' 'Disable signature check'"
+exclusive-patches = true
+
+[Messenger]
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+
+[Music]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+
+[Reddit]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+
+[Tiktok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+
+[Twitter]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+
+[AmazonShopping]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
+
+[GoogleServicesFramework]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-services-framework/"
+
+[Bandcamp]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
+
+[CieID]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/istituto-poligrafico-e-zecca-dello-stato-s-p-a/cieid/"
+
+[Cricbuzz]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/cricbuzz-com/cricbuzz-live-cricket-scores-news/"
+
+[Crunchyroll]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/crunchyroll-llc-2/crunchyroll/"
+
+[Duolingo]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
+
+[Facebook]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+
+[GoogleNews]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
+
+[GooglePhotos]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+
+[GoogleRecorder]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
+
+[IconPackStudio]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+
+[IDAustria]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/spra-source-pin-register-authority/digitales-amt/"
+
+[Inshorts]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/inshorts-formerly-news-in-shorts/inshorts-news-in-60-words-2/"
+
+[irplus]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remote/"
+
+[Lightroom]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+
+[MemeGenerator]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
+
+[MiFitness]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
+
+[MyFitnessPal]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal/"
+
+[NetGuard]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
+
+[ORFON]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/orf-osterreichischer-rundfunk/orf-tvthek-video-on-demand/"
+
+[Pandora]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/pandora/pandora-music-podcasts/"
+
+[Photomath]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
+
+[pixiv]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
+
+[AmazonPrimeVideo]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-prime-video/"
+
+[ProtonMail]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email/"
+
+[RAR]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar/"
+
+[BaconReader]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/onelouder-apps/baconreader-for-reddit/"
+
+[InfinityForRedditPatreon]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-patreon-github-version/"
+
+[InfinityForRedditPlus]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-plus/"
+
+[RIFForReddit]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/talklittle/reddit-is-fun/"
+
+[RelayForReddit]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/dbrady/relay-for-reddit-2/"
+
+[SlideForReddit]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/haptic-apps/slide-for-reddit/"
+
+[SyncForLemmy]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/sync-apps-ltd/sync-for-lemmy/"
+
+[SamsungRadio]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/samsung-electronics-co-ltd/samsung-radio/"
+
+[SolidExplorer]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
+
+[SonySoundConnect]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect/"
+
+[SoundCloud]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
+
+[Spotify]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
+
+[Stocard]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/"
+
+[Strava]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/strava-inc/strava-run-bike-hike-2/"
+
+[Threads]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/threads-an-instagram-app/"
+
+[TickTick]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
+
+[Trakt]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
+
+[Tumblr]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
+
+[Viber]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/viber-media-s-a-r-l/viber/"
+
+[WarnWetter]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/deutscher-wetterdienst/warnwetter/"
+
+[Willhaben]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/willhaben/willhaben/"
