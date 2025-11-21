@@ -55,7 +55,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [Twitter]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 build-mode = "apk"
 dpi = "120-640dpi"
@@ -83,56 +83,11 @@ exclusive-patches = true
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 
-[AmazonShopping]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
-
-[GoogleServicesFramework]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-services-framework/"
-
-[Bandcamp]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
-
-[CieID]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/istituto-poligrafico-e-zecca-dello-stato-s-p-a/cieid/"
-
-[Cricbuzz]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/cricbuzz-com/cricbuzz-live-cricket-scores-news/"
-
-[Crunchyroll]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/crunchyroll-llc-2/crunchyroll/"
-
-[Duolingo]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
-
-[Facebook]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
-
-[GoogleNews]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
-
-[GoogleRecorder]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
-
-[IDAustria]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/spra-source-pin-register-authority/digitales-amt/"
-
-[Inshorts]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/inshorts-formerly-news-in-shorts/inshorts-news-in-60-words-2/"
-
-[irplus]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remote/"
-
 [Lightroom]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 
 [MemeGenerator]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
-
-[MiFitness]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
-
-[MyFitnessPal]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal/"
 
 [NetGuard]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
@@ -148,9 +103,6 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
 
 [pixiv]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
-
-[AmazonPrimeVideo]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-prime-video/"
 
 [ProtonMail]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email/"
