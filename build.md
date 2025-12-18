@@ -1,21 +1,14 @@
 BaconReader: 6.1.4  
-GooglePhotos (arm64-v8a): 7.55.0.833946444  
-GooglePhotos (arm-v7a): 7.55.0.833946444  
+GooglePhotos (arm64-v8a): 7.57.0.843750501  
+GooglePhotos (arm-v7a): 7.57.0.843750501  
 InfinityForRedditPatreon: 8.0.8  
 InfinityForRedditPlus: 8.0.8  
 Music (arm64-v8a): 8.10.52  
 Music (arm-v7a): 8.10.52  
 NetGuard: 2.333  
-Pandora: 2510.1  
+Pandora: 2510.1.1  
 ProtonMail: 4.15.0  
 RAR: 7.20.build129  
-Reddit: 2024.17.0  
-SamsungRadio: 12.4.00.7  
-SlideForReddit: 6.7.1  
-SolidExplorer: 2.8.63  
-SyncForLemmy: v24.03.26-14:56  
-Viber: 26.1.2.0  
-WarnWetter: 4.2.2  
 YouTube: 20.14.43  
 pixiv: 6.141.1  
 
@@ -25,5 +18,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.46.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.46.0)  
+Patches: ReVanced/patches-5.47.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0)  
