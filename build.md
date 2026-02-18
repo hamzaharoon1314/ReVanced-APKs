@@ -1,16 +1,8 @@
-BaconReader: 6.1.4  
-GooglePhotos (arm64-v8a): 7.59.0.856624550  
-GooglePhotos (arm-v7a): 7.59.0.856624550  
-InfinityForRedditPatreon: 8.0.8  
-InfinityForRedditPlus: 8.0.8  
+GooglePhotos (arm64-v8a): 7.63.0.869312946  
+GooglePhotos (arm-v7a): 7.63.0.869312946  
 Music (arm64-v8a): 8.10.52  
 Music (arm-v7a): 8.10.52  
-NetGuard: 2.333  
-Pandora: 2510.1.1  
-ProtonMail: 4.15.0  
-SamsungRadio: 12.4.00.7  
 YouTube: 20.14.43  
-pixiv: 6.141.1  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
@@ -18,5 +10,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.48.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.48.0)  
+Patches: ReVanced/patches-5.50.2.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.50.2)  
